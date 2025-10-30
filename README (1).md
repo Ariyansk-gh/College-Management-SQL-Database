@@ -1,11 +1,6 @@
 # 🎓 College Management System (MySQL Project)
 
-### 👨‍💻 Author: Ariyan Shaikh  
-📘 BSc IT Graduate | 💡 SQL • Python • Data Enthusiast  
-
----
-
-## 📖 Project Overview
+##  Project Overview
 
 This project is a **College Management System Database** created using **MySQL**.  
 It is designed to help students and beginners practice **core SQL concepts** — including table creation, relationships, joins, subqueries, and transactions — through a real-world-style database.
@@ -14,7 +9,7 @@ The project demonstrates how colleges manage data related to **students, courses
 
 ---
 
-## 🧩 Database Structure
+##  Database Structure
 
 The database consists of **five main tables**:
 
@@ -28,7 +23,7 @@ The database consists of **five main tables**:
 
 ---
 
-## 🧱 SQL Concepts Covered
+##  SQL Concepts Covered
 
 ### 🔹 DDL – *Data Definition Language*
 Used to **define or modify** the database structure.
@@ -157,7 +152,7 @@ JOIN courses c ON s.course_id = c.course_id;
 
 ---
 
-## 🧮 Practice Queries Included
+##  Practice Queries Included
 ✅ Retrieve top 3 students by marks  
 ✅ Calculate average fee per department  
 ✅ Display students with pending fees  
@@ -189,7 +184,7 @@ JOIN courses c ON s.course_id = c.course_id;
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 By completing this project, you will:
 - Understand how to design relational databases  
@@ -203,8 +198,7 @@ By completing this project, you will:
 
 **Ariyan Shaikh**  
 📍 BSc IT Graduate | Passionate about SQL, Python & Data Projects  
-📧 ariyan.shaikh@example.com  
-🌐 GitHub: [Your GitHub Profile URL Here]
+📧 ariyanshaikh2004@gmail.com  
 
 ---
 
